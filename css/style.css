@@ -1,0 +1,27 @@
+.item {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float:left;
+    height: 400px;
+   
+}
+
+.centralize {
+    margin: 0 auto;
+}
+
+.info {
+    width: 100%;
+    border: 1px solid black;
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.txt {
+    font-weight: bold;
+}
